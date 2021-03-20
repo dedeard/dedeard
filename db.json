@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "portfolio": "PORTFOLIO",
+    "contact": "CONTACT",
+    "dark_mode": "DARK MODE",
+    "light_mode": "LIGHT MODE"
+  },
+  "home": {
+    "title": "DEDEARD | WEB DEVELOPER",
+    "app_name": "DEDEARD",
+    "app_title": "Web developer based in Makassar, Indonesia.",
+    "bg_url": "https://i.ibb.co/c8RLgXS/main.jpg",
+    "socials": [{
+        "label": "INSTAGRAM",
+        "url": "https://www.instagram.com/dedeard.js/"
+      },
+      {
+        "label": "GITHUB",
+        "url": "https://github.com/dedeardiansya"
+      },
+      {
+        "label": "WHATSAPP",
+        "url": "https://api.whatsapp.com/send?phone=6281343912883&text=%3CChatMe%20%2F%3E"
+      }
+    ]
+  },
+  "about": {
+    "label": "About.",
+    "title": "ABOUT | WEB DEVELOPER",
+    "heading": "I’m Dede Ardiansya",
+    "body": "<p>Web developer based in Makassar, Indonesia.</p><p>Building websites is my hobby, I try to have a minimalist website design and clean code.</p>",
+    "img_url": "https://i.ibb.co/3vzGh4G/dede.jpg",
+    "id": {
+      "heading":"Saya Dede Ardiansya",
+      "body":"<p>Pengembang web yang berbasis di Makassar, Indonesia.</p><p>Membangun website adalah hobi saya, saya mencoba memiliki desain website yang minimalis dan kode yang bersih.</p>"
+    }
+  },
+  "portfolio": {
+    "label": "Portfolio.",
+    "title": "PORTFOLIO | WEB DEVELOPER",
+    "items": [{
+        "type": "Laravel | Nuxt.js",
+        "text": "Ajarbelajar",
+        "url": "https://ab.dedeard.my.id/",
+        "img": "https://i.ibb.co/DVj3dyV/ajarbelajar.jpg"
+      },
+      {
+        "type": "Vue",
+        "text": "Web Portfolio",
+        "url": "https://demodedeard.web.app/",
+        "img": "https://i.ibb.co/kKZRB9g/dedeard.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact.",
+    "title": "CONTACT | WEB DEVELOPER",
+    "info": [{
+        "label": "ADDRESS STREET",
+        "items": ["D/23 Perumahan Puri diva Istanbul.", "Gowa, Sulawesi Selatan."]
+      },
+      {
+        "label": "MOBILE PHONE",
+        "items": ["Call: +62 813-4391-2883", "WhatsApp: +62 813-4391-2883"]
+      },
+      {
+        "label": "ADDRESS EMAIL",
+        "items": ["me@dedeard.my.id"]
+      }
+    ],
+    "form_url": "https://formspree.io/f/xoqyaqqe"
+  }
+}
