@@ -41,6 +41,12 @@
     "label": "Portfolio.",
     "title": "PORTFOLIO | WEB DEVELOPER",
     "items": [{
+        "type": "Laravel",
+        "text": "Disposisi surat",
+        "url": "https://github.com/dedeardiansya/deposisi-surat",
+        "img": "https://i.ibb.co/G23WQVq/Untitled-1.jpg"
+      },
+      {
         "type": "Laravel | Nuxt.js",
         "text": "Ajarbelajar",
         "url": "https://ab.dedeard.my.id/",
