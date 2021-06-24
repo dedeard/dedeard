@@ -30,11 +30,11 @@
     "label": "About.",
     "title": "ABOUT | WEB DEVELOPER",
     "heading": "I’m Dede Ardiansya",
-    "body": "<p>Web developer based in Makassar, Indonesia.</p><p>Building websites is my hobby, I try to have a minimalist website design and clean code.</p>",
+    "body": "<p>Web developer based in Makassar, Indonesia.</p><p>Building websites is my hobby, I try to have a minimalist website design.</p>",
     "img_url": "https://i.ibb.co/3vzGh4G/dede.jpg",
     "id": {
       "heading":"Saya Dede Ardiansya",
-      "body":"<p>Pengembang web yang berbasis di Makassar, Indonesia.</p><p>Membangun website adalah hobi saya, saya mencoba memiliki desain website yang minimalis dan kode yang bersih.</p>"
+      "body":"<p>Pengembang web yang berbasis di Makassar, Indonesia.</p><p>Membangun website adalah hobi saya, saya mencoba memiliki desain website yang minimalis.</p>"
     }
   },
   "portfolio": {
