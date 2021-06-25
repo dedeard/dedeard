@@ -2,6 +2,7 @@
   "navigation": {
     "home": "HOME",
     "about": "ABOUT",
+    "blog": "BLOG",
     "portfolio": "PORTFOLIO",
     "contact": "CONTACT",
     "dark_mode": "DARK MODE",
@@ -77,5 +78,34 @@
       }
     ],
     "form_url": "https://formspree.io/f/xoqyaqqe"
+  },
+  "blog": {
+    "label": "Blog.",
+    "title": "BLOG | WEB DEVELOPER",
+    "items": [{
+        "category": "Laravel",
+        "title": "Ajarbelajar for web developer",
+        "img": "https://i.ibb.co/DVj3dyV/ajarbelajar.jpg",
+        "slug": "ajarbelajar",
+        "created_at": 1624618456693,
+        "body": "<h3>Halo world!</h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis? </p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis?</p><h3>Halo world!</h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis? </p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis?</p>"
+      },
+      {
+        "category": "Vue",
+        "title": "Dedeard portfolio",
+        "img": "https://i.ibb.co/kKZRB9g/dedeard.jpg",
+        "slug": "dedeard-1",
+        "created_at": 1624618456693,
+        "body": "<h3>Halo world!</h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis? </p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis?</p><h3>Halo world!</h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis? </p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis?</p>"
+      },
+      {
+        "category": "Vue",
+        "title": "Dedeard portfolio",
+        "img": "https://i.ibb.co/kKZRB9g/dedeard.jpg",
+        "slug": "dedeard2",
+        "created_at": 1624618456693,
+        "body": "<h3>Halo world!</h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis? </p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis?</p><h3>Halo world!</h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis? </p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus numquam consequuntur laudantium repellat debitis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis facilis cum vel ipsam. Accusantium nobis voluptatum quibusdam nulla dolorem mollitia soluta consequatur veritatis odit omnis?</p>"
+      }
+    ]
   }
 }
