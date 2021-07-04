@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AjarBelajar](https://www.ajarbelajar.com)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.dedeard.my.id](https://www.dedeard.my.id)
 
