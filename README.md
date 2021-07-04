@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.dedeard.my.id](https://www.dedeard.my.id)
 
-- 💬 Ask me about **vue, nuxt, laravel and firebase.**
-
-- 📫 How to reach me **dedeariansya1@gmail.com**
+- 📫 How to reach me **me@dedeard.my.id**
 
 - ⚡ Fun fact **I think I am funny**
 
