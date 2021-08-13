@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedeardiansya&label=Profile%20views&color=0e75b6&style=flat" alt="dedeardiansya" /> </p>
 
-- 🔭 I’m currently working on [AjarBelajar](https://www.ajarbelajar.com)
-
-- 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [https://www.dedeard.my.id](https://www.dedeard.my.id)
 
 - 📫 How to reach me **me@dedeard.my.id**
