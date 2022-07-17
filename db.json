@@ -39,23 +39,10 @@
       "body": "<p>Pengembang web yang berbasis di Makassar, Indonesia.</p><p>Membangun website adalah hobi saya, saya mencoba memiliki desain website yang minimalis.</p>"
     }
   },
-  "portfoliox": {
+  "portfolio": {
     "label": "Portfolio.",
     "title": "PORTFOLIO | WEB DEVELOPER",
-    "items": [
-      {
-        "type": "Laravel | Nuxt.js",
-        "text": "Ajarbelajar",
-        "url": "https://www.ajarbelajar.com/",
-        "img": "https://i.ibb.co/DVj3dyV/ajarbelajar.jpg"
-      },
-      {
-        "type": "Vue",
-        "text": "Web Portfolio",
-        "url": "https://demodedeard.web.app/",
-        "img": "https://i.ibb.co/kKZRB9g/dedeard.jpg"
-      }
-    ]
+    "items": []
   },
   "contact": {
     "label": "Contact.",
