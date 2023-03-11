@@ -11,8 +11,8 @@
 
 ---
 
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedeardiansya&show_icons=true&locale=en&layout=compact" alt="dedeardiansya" /></p>
+<p align="center"><img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedeard" alt="dedeardiansya" /></p>
 
----
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedeard&show_icons=true&locale=en&layout=compact" alt="dedeardiansya" /></p>
 
 <p align="center"><img width="60%" src="https://wakatime.com/share/@138871eb-7e78-4b8f-9689-b3c8fed8f601/47d101fa-bc52-4c28-a2e6-39af4d0faac2.svg" alt="dedeardiansya" /></p>
