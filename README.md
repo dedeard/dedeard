@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dede ariansya</h1>
 <h3 align="center">A passionate web developer from Makassar, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedeardiansya&label=Profile%20views&color=0e75b6&style=flat" alt="dedeardiansya" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dedeardiansya&label=Profile%20views&color=0e75b6&style=flat" alt="dedeardiansya" />
+  <a href="https://wakatime.com/@138871eb-7e78-4b8f-9689-b3c8fed8f601"><img src="https://wakatime.com/badge/user/138871eb-7e78-4b8f-9689-b3c8fed8f601.svg" alt="Total time coded since Aug 26 2020" /></a>
+</p>
 
 - 👨‍💻 All of my projects are available at [https://www.dedeard.my.id](https://www.dedeard.my.id)
 
