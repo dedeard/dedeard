@@ -6,7 +6,7 @@
   <a href="https://wakatime.com/@138871eb-7e78-4b8f-9689-b3c8fed8f601"><img src="https://wakatime.com/badge/user/138871eb-7e78-4b8f-9689-b3c8fed8f601.svg" alt="Total time coded since Aug 26 2020" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://www.dedeard.my.id](https://www.dedeard.my.id)
+- 👨‍💻 All of my projects are available at [https://dedeard.my.id](https://dedeard.my.id)
 
 - 📫 How to reach me **me@dedeard.my.id**
 
